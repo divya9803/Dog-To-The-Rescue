@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\My Game\\dog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project C48 Dog To The Rescue"
+	}
+}
